@@ -45,9 +45,9 @@ const calculateHighestAlphabet = (alphabets) => {
   
     const response = {
       is_success: true,
-      user_id: 'john_doe_17091999',
-      email: 'john@xyz.com',
-      roll_number: 'ABCD123',
+      user_id: 'riddhishwar_S_11092002',
+      email: 'riddhishwar.s2020@vitstudent.ac.in',
+      roll_number: '20BDS0001',
       numbers,
       alphabets,
       highest_alphabet: highest_alphabet ? [highest_alphabet] : []
